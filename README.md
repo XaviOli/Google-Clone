@@ -45,3 +45,11 @@ En mitad del footer (de la segunda barra):
 
 - Emisión neutra del carbono desde el 2007
 
+# 📲 VERSIÓN MÓVIL
+
+![home mobile](HTML/ASSETS/version-movil-google.jpg)
+
+
+
+
+
