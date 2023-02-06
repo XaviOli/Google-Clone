@@ -154,6 +154,17 @@ main .main-button button:hover {
     color: #5f6368;
 }
 
+.idiomas-ofrecidos {
+    color: #5f6368;
+    display: flex;
+    justify-content: center;
+    padding-top: 15px;
+}
+
+span {
+    color: #76a7f7;
+}
+
 footer {
     width: 100%;
     height: 50px;
