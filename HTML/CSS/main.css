@@ -71,6 +71,7 @@ main .main-input {
 
 main .main-input-container {
     width: 525px;
+    height: 43px;
     border-radius: 100px;
     border: 1px solid #d4d0d1;
     display: flex;
