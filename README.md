@@ -24,3 +24,24 @@ Aquí vemos claramente el logo de Google centrado, con las siguientes partes:
 - Lupa (ícono de búsqueda, en el margen izquierdo)
 - Cámara de fotos (ícono de imágenes, en el margen derecho)
 
+# FOOTER
+
+A pie de página con una doble barra que ocupa todo el ancho disponible, con información y enlaces:
+
+Primera barra del footer:
+
+- España (país desde donde nos conectamos)
+
+Segunda barra del footer:
+
+- Publicidad
+- Empresa
+- Cómo funciona la búsqueda
+- Privacidad
+- Términos
+- Configuración
+
+En mitad del footer (de la segunda barra):
+
+- Emisión neutra del carbono desde el 2007
+
