@@ -48,6 +48,15 @@ nav .nav-right-section img {
     margin-left: 10px;
 }
 
+header nav .nav-left-section {
+    width: 250px;
+    height: auto;
+    display: flex;
+    list-style: none;
+    justify-content: center;
+    align-items: center;
+}
+
 main {
     margin-top: 150px;
     text-align: center;
