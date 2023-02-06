@@ -1,8 +1,8 @@
-# Clonando la página de Google
+# 🔬 Clonando la página de Google
 
 Practicando con las infinitas posibilidades que nos ofrecen HTML5 & CSS para clonar páginas estáticas.
 
-### Etiquetas semánticas principales:
+### 🧷 Etiquetas semánticas principales:
 
 - Header
 - Main
