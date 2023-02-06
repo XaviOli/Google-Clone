@@ -20,6 +20,16 @@ header nav {
     justify-content: flex-end;
 }
 
+nav .nav-left-section a {
+    margin-right: 10px;
+    color: black;
+}
+
+header .nav-left-section {
+    display: flex;
+    justify-content: flex-start;
+}
+
 header nav .nav-right-section {
     width: 250px;
     height: auto;
